@@ -10,6 +10,8 @@
 </p>
 
 <p align="row">
+<img src= "installing.png" width="400" >
+<img src= "step2.png" width="400" >
 <img src= "Tap to play.png" width="400" >
 </p>
 

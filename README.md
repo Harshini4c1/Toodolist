@@ -16,7 +16,7 @@
 <img src= "Priority.png" width="400" >
 <img src= "Category.png" width="400" >
 <img src= "Status.png" width="400" >
-<img src= "Edit" width="400" >
+<img src= "Edit.png" width="400" >
 <img src= "Final.png" width="400" >
   
 </p>

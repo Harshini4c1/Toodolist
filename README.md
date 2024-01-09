@@ -10,9 +10,15 @@
 </p>
 
 <p align="row">
-<img src= "installing.png" width="400" >
-<img src= "step 2.png" width="400" >
+<img src= "Base.png" width="400" >
 <img src= "Tap to play.png" width="400" >
+<img src= "Titile.png" width="400" >
+<img src= "Priority.png" width="400" >
+<img src= "Category.png" width="400" >
+<img src= "Status.png" width="400" >
+<img src= "Edit" width="400" >
+<img src= "Final.png" width="400" >
+  
 </p>
 
 ## Features

@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <p align="center">
-    
+    To Build a Todolist which is user-friendly.
   </p>
 </p>
 
@@ -17,11 +17,11 @@
 
 ## Features
 
-- [x] Create Todo
-- [x] Update Todo
-- [x] Edit Todo
-- [x] Priority Based Todo Coloring
-- [x] View Todo
+- [x] Due Date
+- [x] Priority Levels(Low,Medium,High]
+- [x] Category
+- [x] Title And Description
+- [x] Task Status
 
 ## Requirements
 

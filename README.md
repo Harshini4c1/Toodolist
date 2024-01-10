@@ -10,7 +10,6 @@
 </p>
 
 <p align="row">
-<img src= "Base.png" width="400" >
 <img src= "Tap to play.png" width="400" >
 <img src= "Titile.png" width="400" >
 <img src= "Priority.png" width="400" >

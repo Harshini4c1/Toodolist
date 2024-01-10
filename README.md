@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <p align="center">
-    To Build a Todolist which is user-friendly.
+    Building a Simple To-Do List Application.
   </p>
 </p>
 
@@ -15,6 +15,8 @@
 <img src= "Priority.png" width="400" >
 <img src= "Category.png" width="400" >
 <img src= "Status.png" width="400" >
+<img src= "Date.jpeg" width="400" >
+<img src= "Datepic.jpeg" width="400" >
 <img src= "Edit.png" width="400" >
 <img src= "Final.png" width="400" >
 <img src= "clor.png" width="400" >

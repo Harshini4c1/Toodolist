@@ -17,6 +17,7 @@
 <img src= "Status.png" width="400" >
 <img src= "Edit.png" width="400" >
 <img src= "Final.png" width="400" >
+<img src= "clor.png" width="400" >
   
 </p>
 

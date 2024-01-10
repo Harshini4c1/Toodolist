@@ -24,7 +24,7 @@
 ## Features
 
 - [x] Due Date
-- [x] Priority Levels(Low,Medium,High]
+- [x] Priority Levels(Low,Medium,High)
 - [x] Category
 - [x] Title And Description
 - [x] Task Status
